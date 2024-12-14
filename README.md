@@ -1,4 +1,4 @@
-# System Programming Lab 13 Multiprocessing
+# System Programming Lab 13 Final Project
 ## Spencer Thacker <thackers@msoe.edu>
 
 This program aims to recreate Producer/consumer problems in the form of a bank account using sockets where multiple clients can send signals to the bank at once, with each being added to a queue if a process is already happening.
